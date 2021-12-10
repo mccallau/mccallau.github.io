@@ -18,12 +18,11 @@ description: Student's Courses
 
 ### <a name="current"></a>Current courses
 
-#### [Data Analytics Introduction and Practicum](http://bsharvey.github.io) (EMSE 6992; Fall, 2017)
+#### [Database Management Systems](http://mccallau.github.io) (CSCI 6441; Fall, 2021)
 
-- [Site](https://bsharvey.github.io/)
-- [My Portfolio](https://username.github.io/)
-- [Assignments](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Assignments)
-- [Labs](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs)
+---
+
+#### [Data Analytics Introduction and Practicum](http://mccallau.github.io) (SEAS 6401; Fall, 2021)
 
 ---
 
@@ -38,3 +37,14 @@ description: Student's Courses
 
 ### <a name="old"></a>Former courses
 
+#### [Data Oriented Programming](http://mccallau.github.io) (SI 206; Fall, 2017)
+
+- [Assignments](https://github.com/mccallau/SI206)
+
+---
+
+#### [Building Data-Driven Applications](http://mccallau.github.io) (SI 364; Fall, 2018)
+
+- [Assignments](https://github.com/mccallau/SI206)
+
+---

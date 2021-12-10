@@ -31,12 +31,6 @@ description: Ben Harvey's assignments
 
 
 ### <a name="deeplearning"></a>deep learning
-#### <a name="qtl"></a>[theano](http://www.rqtl.org)
-{Add description of example an library here}
-
-[numpy example](http://groups.google.com/group/Rqtl-disc)
-[numpy repository](http://groups.google.com/group/Rqtl-disc)
-
 #### <a name="qtl"></a>[tensorflow](http://www.rqtl.org)
 {Add description of example an library here}
 
@@ -52,12 +46,6 @@ description: Ben Harvey's assignments
 ---
 
 ### <a name="machinelearning"></a>machine learning
-{Add description of example an library here}
-
-#### <a name="qtl"></a>[mlpy](http://www.rqtl.org)
-[mlpy example](http://groups.google.com/group/Rqtl-disc)
-[mlpy repository](http://groups.google.com/group/Rqtl-disc)
-
 #### <a name="qtl"></a>[sci-kit-learn](http://www.rqtl.org)
 {Add description of example an library here}
 
@@ -104,7 +92,7 @@ description: Ben Harvey's assignments
 ---
 
 ### <a name="textprocessing"></a>text processing
-#### <a name="qtl"></a>[nlkt](http://www.rqtl.org)
+#### <a name="qtl"></a>[nltk](http://www.rqtl.org)
 {Add description of example an library here}
 
 [nlkt example](http://groups.google.com/group/Rqtl-disc)
@@ -121,13 +109,6 @@ description: Ben Harvey's assignments
 ---
 
 ### <a name="visualization"></a>visualization
-#### <a name="qtl"></a>[bokeh](http://www.rqtl.org)
-{Add description of example an library here}
-
-[bokeh example](http://groups.google.com/group/Rqtl-disc)
-[bokeh repository](http://groups.google.com/group/Rqtl-disc)
-
-
 #### <a name="qtl"></a>[matpilotlib](http://www.rqtl.org)
 {Add description of example an library here}
 
@@ -158,17 +139,13 @@ description: Ben Harvey's assignments
 [beautifulsoup example](http://groups.google.com/group/Rqtl-disc)
 [beautifulsoup repository](http://groups.google.com/group/Rqtl-disc)
 
-
-#### <a name="qtl"></a>[scrapy](http://www.rqtl.org)
-{Add description of example an library here}
-
-[scrapy example](http://groups.google.com/group/Rqtl-disc)
-[scrapy repository](http://groups.google.com/group/Rqtl-disc)
-
-
 ---
 ### <a name="R Packages"></a>R Packages
-#### <a name="qtl"></a>[R](http://www.r-project.org)
-TBD
+#### <a name="qtl"></a>[shiny](http://www.rqtl.org)
+{Add description of example an library here}
+
+[beautifulsoup example](http://groups.google.com/group/Rqtl-disc)
+[beautifulsoup repository](http://groups.google.com/group/Rqtl-disc)
+
 
 

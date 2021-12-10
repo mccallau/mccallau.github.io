@@ -16,9 +16,9 @@ Data Scientist and Consultant
 University of Michigan
 
 
-#### <a name="education"></a>ecucation
-MS (in progress) | George Washington University
-BS | University of Michigan
+#### <a name="education"></a>education
+MS (in progress) | George Washington University\n
+BS | University of Michigan\n
 Coursework | Michigan State University
 
 
