@@ -29,7 +29,6 @@ description: Austin McCall's assignments
 
 ### <a name="deeplearning"></a>deep learning
 #### <a name="qtl"></a>[tensorflow](https://www.tensorflow.org/)
-{Add description of example an library here}
 
 [tensorflow repository](https://github.com/tensorflow/tensorflow)
 
@@ -112,5 +111,5 @@ description: Austin McCall's assignments
 ### <a name="R Packages"></a>R Packages
 #### <a name="qtl"></a>[shiny](https://shiny.rstudio.com/)
 
-[beautifulsoup repository](https://github.com/rstudio/shiny)
+[shiny repository](https://github.com/rstudio/shiny)
 
