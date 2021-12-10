@@ -20,7 +20,7 @@ keywords: statistics, data analytics
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/publpics/iplotCorr.html">
+    <a href="pages/publpics/pic1.html">
         <img src="assets/publpics/pic1.png" alt="rf example" title="rf example"/>
     </a>
   </td>
